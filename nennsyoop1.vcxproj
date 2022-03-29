@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="complexcpp.cpp" />
+    <ClCompile Include="complex.cpp" />
     <ClCompile Include="nennsyoop1.cpp" />
   </ItemGroup>
   <ItemGroup>
